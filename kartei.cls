@@ -308,7 +308,7 @@
 }
 %    Karteikartenumgebung:
 %  #1 (optional) Kopfzeile vorne Links : Fach
-%  #2 Titel der Vorderseite
+%  #2 Titel/Text der Vorderseite
 %  #3 (optional) Kopfzeile vorne rechts : Kommentar
 %
 \newenvironmentx{karte}[3][1=\card@fach,3=\card@kommentar]
