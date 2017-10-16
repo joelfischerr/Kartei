@@ -1,6 +1,8 @@
 Karteikarten in LaTeX
 =============
 
+Weitere Informationen auf: [http://www.rbergmann.info/projekte/kartei.html](http://www.rbergmann.info/projekte/kartei.html)
+
 Eine Anleitung befindet sich in der Eine Auslistung aller Optionen findet sich in der manual.pdf
 
 ## Versionen
