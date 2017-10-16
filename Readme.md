@@ -13,6 +13,8 @@ Eine Anleitung befindet sich in der Eine Auslistung aller Optionen findet sich i
  * 1.7 - 26.11.2008 Fach & Kommentartext sind jetzt global setzbar über \section und \subsection (und deren *-Derivate), Druckoptionen verkürzt und Standards eingeführt, Antworttext und Zählerformat veränderbar
  * 1.6 - 09.09.2008 A7, A8-Karteikarten und die Druckränder eingefügt. Manual erstellt.
 
+## TODO
+
 ## Lizenz
 
 	%
