@@ -325,7 +325,7 @@
 \rohead{\derkommentar{#3}}
 \thispagestyle{scrheadings}
 ~\vfill{~\hfill \parbox[t]{.9\textwidth}{\centering \Large #2}\hfill~}\vfill~
-\newpage%
+\newpage \large \centering 
 }% Start os usual content block
 {% Build a warning if the page is too full (forcing a pagebreak)
  % assure the next card starts on an odd page by doublepagebreak
