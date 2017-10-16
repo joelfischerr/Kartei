@@ -189,7 +189,7 @@
 %
 % Load print Commands
 \ifcard@useprint%
-  \input{kartei.print}
+  \input{Kartei/kartei.print}
 \fi%
 %
 % -----------------
