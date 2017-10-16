@@ -1,9 +1,14 @@
 Karteikarten in LaTeX
 =============
 
+"Beim Lernen sind Karteikarten nützlich. Nun lernt man ja üblicherweise in einer Gruppe, so dass eventuell jeder einen Satz der Karten haben sollte. Vielleicht auch in mehreren Varianten: Einer lernt lieber am Computer, der andere hat auf der Bahnfahrt eh nicht so viel zu tun und blättert lieber Karten aus Pappe durch. Diese Karten sollten natürlich ähnlich sein." [rbergmann.info](http://www.rbergmann.info/projekte/kartei.html)
+
 Weitere Informationen auf: [http://www.rbergmann.info/projekte/kartei.html](http://www.rbergmann.info/projekte/kartei.html)
 
-Eine Anleitung befindet sich in der Eine Auslistung aller Optionen findet sich in der manual.pdf
+Dieses Projekt ermöglicht es Lernkarten in verschiedenen Grössen in Latex zu erstellen und anschliessend als druckbares PDF zu exportieren.
+
+Ein Beispiel wie das Projekt verwendet wird, findet man in Beispiel.tex.
+Eine genauere Anleitung sowie eine Auflistung aller Optionen findet sich in der manual.pdf.
 
 ## Versionen
 
