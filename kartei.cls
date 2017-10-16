@@ -326,6 +326,7 @@
 \thispagestyle{scrheadings}
 ~\vfill{~\hfill \parbox[t]{.9\textwidth}{\centering \Large #2}\hfill~}\vfill~
 \newpage \large \centering 
+% To customise the style of the text of all answers, change the style here (between \newpage and the start of this comment). To overwrite this on a single card put the text style just before the answer text.
 }% Start os usual content block
 {% Build a warning if the page is too full (forcing a pagebreak)
  % assure the next card starts on an odd page by doublepagebreak
